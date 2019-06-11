@@ -1,0 +1,7 @@
+*:focus {
+    outline: none;
+}
+
+html {
+    max-width: 100vw;
+}
